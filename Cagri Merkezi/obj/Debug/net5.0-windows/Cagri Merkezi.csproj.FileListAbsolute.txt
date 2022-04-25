@@ -1,0 +1,18 @@
+C:\Users\turya\source\repos\Cagri Merkezi\bin\Debug\net5.0-windows\Cagri Merkezi.exe
+C:\Users\turya\source\repos\Cagri Merkezi\bin\Debug\net5.0-windows\Cagri Merkezi.deps.json
+C:\Users\turya\source\repos\Cagri Merkezi\bin\Debug\net5.0-windows\Cagri Merkezi.runtimeconfig.json
+C:\Users\turya\source\repos\Cagri Merkezi\bin\Debug\net5.0-windows\Cagri Merkezi.runtimeconfig.dev.json
+C:\Users\turya\source\repos\Cagri Merkezi\bin\Debug\net5.0-windows\Cagri Merkezi.dll
+C:\Users\turya\source\repos\Cagri Merkezi\bin\Debug\net5.0-windows\ref\Cagri Merkezi.dll
+C:\Users\turya\source\repos\Cagri Merkezi\bin\Debug\net5.0-windows\Cagri Merkezi.pdb
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.csprojAssemblyReference.cache
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri_Merkezi.Form1.resources
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.csproj.GenerateResource.cache
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.AssemblyInfoInputs.cache
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.AssemblyInfo.cs
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.csproj.CoreCompileInputs.cache
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.dll
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\ref\Cagri Merkezi.dll
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.pdb
+C:\Users\turya\source\repos\Cagri Merkezi\obj\Debug\net5.0-windows\Cagri Merkezi.genruntimeconfig.cache
